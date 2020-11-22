@@ -1,0 +1,45 @@
+---
+name:  examplepack
+title: Example Pack
+version: 1.0.0
+
+authors:
+  - Lgmrszd
+  - le_weee
+
+minecraft: 1.12.2
+forge: 14.23.5.2854
+
+mods:
+# Main mods
+  - bwm-suite:
+      version: BetterWithMods-1.12-2.3.23.jar
+  - gregtechce:
+      version: gregtech-1.12.2-1.10.5.582.jar
+  - tfcraft:
+      version: TerraFirmaCraft-MC1.12.2-1.7.9.167.jar
+# Main mods: addons:
+
+# MystMech + Embers + addons
+  - mysticalmechanics:
+  - mystical-gears:
+  - mechanical-crafting:
+  - embers-rekindled:
+  - soot:
+# Rustic + stuff
+  - rustic:
+  - heterorustichromia:
+# QoL stuff
+  - jei:
+  - the-one-probe:
+  - top-addons:
+  - patchouli:
+# Pack tools
+  - crafttweaker:
+# Other
+  - railcraft:
+  - forestry:
+  - immersive-engineering:
+  - sakura:
+files:
+  - location: src/
