@@ -19,7 +19,9 @@ mods:
   - tfcraft:
       version: TerraFirmaCraft-MC1.12.2-1.7.9.167.jar
 # Main mods: addons:
-
+  - gregicality:
+  - terrafirmathings:
+  - tfc-ambiental:
 # MystMech + Embers + addons
   - mysticalmechanics:
   - mystical-gears:
@@ -30,12 +32,18 @@ mods:
   - rustic:
   - heterorustichromia:
 # QoL stuff
+  - foamfix-for-minecraft:
+  
   - jei:
   - the-one-probe:
   - top-addons:
   - patchouli:
 # Pack tools
   - crafttweaker:
+# Dynamic Trees
+  - dynamictrees:
+  - dynamictreestfc:
+  - dynamic-trees-forestry:
 # Other
   - railcraft:
   - forestry:
