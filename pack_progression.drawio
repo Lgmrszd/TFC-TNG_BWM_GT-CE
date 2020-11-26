@@ -1,42 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T14:22:47.452Z" agent="5.0 (X11)" etag="FIoxFpX1OuGEhv19PjXq" version="13.0.8" type="github" pages="5">
-  <diagram id="qkJy5qVOCOmz0I5MrPBC" name="TFC:TNG default progression">
-    <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="5ia-Q7ChUQ1GHX_aOsa1" name="BWM default progression">
-    <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="z1H2UeEMdir6PtWXG14c-0" />
-        <mxCell id="z1H2UeEMdir6PtWXG14c-1" parent="z1H2UeEMdir6PtWXG14c-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="nVbuYmS9z6S-gXFsK3g3" name="GT:CE default progression">
-    <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="4-zgcIPi6P2RsUSCOPzd-0" />
-        <mxCell id="4-zgcIPi6P2RsUSCOPzd-1" parent="4-zgcIPi6P2RsUSCOPzd-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="YDZD6cO3B714cmqEzv-d" name="IE default progression">
-    <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="kfsbdXt5VI9k9LOq0GQ8-0" />
-        <mxCell id="kfsbdXt5VI9k9LOq0GQ8-1" parent="kfsbdXt5VI9k9LOq0GQ8-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="eFlmM_bn0EofehYLSd7M" name="Pack progression">
-    <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="PC84Y65q-Z2JwzMxJnEu-0" />
-        <mxCell id="PC84Y65q-Z2JwzMxJnEu-1" parent="PC84Y65q-Z2JwzMxJnEu-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e" modified="2020-11-26T08:43:36.982Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" etag="Dktam12P_wJano2-0whb" version="13.6.5" pages="6">
+    <diagram id="eFlmM_bn0EofehYLSd7M" name="Pack progression">
+        <mxGraphModel dx="1047" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="PC84Y65q-Z2JwzMxJnEu-0"/>
+                <mxCell id="PC84Y65q-Z2JwzMxJnEu-1" parent="PC84Y65q-Z2JwzMxJnEu-0"/>
+                <mxCell id="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="J5CU-x-rq1GXavr5xYFY-2" target="J5CU-x-rq1GXavr5xYFY-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="J5CU-x-rq1GXavr5xYFY-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;TerraFirmaCraft&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="175" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="J5CU-x-rq1GXavr5xYFY-3" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="J5CU-x-rq1GXavr5xYFY-3" target="5ror_pVRo7oU6RxXRf_z-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="J5CU-x-rq1GXavr5xYFY-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BetterWithMods&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="175" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="4" target="5ror_pVRo7oU6RxXRf_z-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Mystical Mechanics" style="rounded=1;whiteSpace=wrap;html=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="180" y="380" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;GregTech:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Community Edition&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="400" y="610" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="5ror_pVRo7oU6RxXRf_z-7" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="5ror_pVRo7oU6RxXRf_z-7" target="5ror_pVRo7oU6RxXRf_z-16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-7" value="Immersive Engineering" style="rounded=1;whiteSpace=wrap;html=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="440" y="380" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="5ror_pVRo7oU6RxXRf_z-11" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-11" value="PNC:R" style="rounded=1;whiteSpace=wrap;html=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="630" y="510" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="5ror_pVRo7oU6RxXRf_z-16" target="5ror_pVRo7oU6RxXRf_z-11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" parent="PC84Y65q-Z2JwzMxJnEu-1" source="5ror_pVRo7oU6RxXRf_z-16" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5ror_pVRo7oU6RxXRf_z-16" value="Immersive Petroleum" style="rounded=1;whiteSpace=wrap;html=1;" parent="PC84Y65q-Z2JwzMxJnEu-1" vertex="1">
+                    <mxGeometry x="630" y="380" width="110" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="4RP5_QJQZk60RKxxRBGe" name="Pack Progression Detailed">
+        <mxGraphModel dx="1047" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-0"/>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-1" parent="94agSEG1sXSR3b1KnzN7-0"/>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-10" value="Defense" style="swimlane;rounded=0;sketch=0;startSize=23;" parent="94agSEG1sXSR3b1KnzN7-1" vertex="1">
+                    <mxGeometry x="1810" y="40" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-11" value="Logistics" style="swimlane;rounded=0;sketch=0;" parent="94agSEG1sXSR3b1KnzN7-1" vertex="1">
+                    <mxGeometry x="1570" y="40" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-12" value="Resources" style="swimlane;rounded=0;sketch=0;" parent="94agSEG1sXSR3b1KnzN7-1" vertex="1">
+                    <mxGeometry x="30" y="40" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-13" value="Survival" style="swimlane;rounded=0;sketch=0;" parent="94agSEG1sXSR3b1KnzN7-1" vertex="1">
+                    <mxGeometry x="314" y="40" width="400" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="94agSEG1sXSR3b1KnzN7-14" value="Tech tree" style="swimlane;rounded=0;sketch=0;" parent="94agSEG1sXSR3b1KnzN7-1" vertex="1">
+                    <mxGeometry x="960" y="40" width="400" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="r3b_dH6vwG5MheDp4VS7-4" value="Legend" style="swimlane;rounded=0;sketch=0;" parent="94agSEG1sXSR3b1KnzN7-1" vertex="1">
+                    <mxGeometry x="30" y="-360" width="170" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="1C9HEGjrZ2PHEOJGJfc3-0" value="&lt;font style=&quot;font-size: 16px&quot;&gt;TFC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontStyle=1;fontColor=#333333;" parent="r3b_dH6vwG5MheDp4VS7-4" vertex="1">
+                    <mxGeometry x="30" y="40" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1C9HEGjrZ2PHEOJGJfc3-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;BWM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1;fontColor=#4D4B3B;" parent="r3b_dH6vwG5MheDp4VS7-4" vertex="1">
+                    <mxGeometry x="30" y="100" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1C9HEGjrZ2PHEOJGJfc3-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;GTCE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;fontColor=#CCE5FF;" parent="r3b_dH6vwG5MheDp4VS7-4" vertex="1">
+                    <mxGeometry x="30" y="160" width="100" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="qkJy5qVOCOmz0I5MrPBC" name="TFC:TNG default progression">
+        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+        <mxGraphModel dx="1047" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+            <root>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+                <mxCell id="0"/>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+                <mxCell id="1" parent="0"/>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+            </root>
+            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+        </mxGraphModel>
+        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+    </diagram>
+    <diagram id="5ia-Q7ChUQ1GHX_aOsa1" name="BWM default progression">
+        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+        <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+            <root>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+                <mxCell id="z1H2UeEMdir6PtWXG14c-0"/>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+                <mxCell id="z1H2UeEMdir6PtWXG14c-1" parent="z1H2UeEMdir6PtWXG14c-0"/>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+            </root>
+            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+        </mxGraphModel>
+        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+    </diagram>
+    <diagram id="nVbuYmS9z6S-gXFsK3g3" name="GT:CE default progression">
+        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+        <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+            <root>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+                <mxCell id="4-zgcIPi6P2RsUSCOPzd-0"/>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+                <mxCell id="4-zgcIPi6P2RsUSCOPzd-1" parent="4-zgcIPi6P2RsUSCOPzd-0"/>
+                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;                &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+            </root>
+            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;            &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+        </mxGraphModel>
+        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;        &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;
+    </diagram>
+    <diagram id="YDZD6cO3B714cmqEzv-d" name="IE default progression">
+        &#xa;        &#xa;        &#xa;&#xa;&#xa;
+        <mxGraphModel dx="1047" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            &#xa;            &#xa;            &#xa;&#xa;&#xa;
+            <root>
+                &#xa;                &#xa;                &#xa;&#xa;&#xa;
+                <mxCell id="kfsbdXt5VI9k9LOq0GQ8-0"/>
+                &#xa;                &#xa;                &#xa;&#xa;&#xa;
+                <mxCell id="kfsbdXt5VI9k9LOq0GQ8-1" parent="kfsbdXt5VI9k9LOq0GQ8-0"/>
+                &#xa;                &#xa;                &#xa;&#xa;&#xa;
+            </root>
+            &#xa;            &#xa;            &#xa;&#xa;&#xa;
+        </mxGraphModel>
+        &#xa;        &#xa;        &#xa;&#xa;&#xa;
+    </diagram>
 </mxfile>
