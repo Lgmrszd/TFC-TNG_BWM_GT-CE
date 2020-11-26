@@ -15,13 +15,25 @@ mods:
   - bwm-suite:
       version: BetterWithMods-1.12-2.3.23.jar
   - gregtechce:
-      version: gregtech-1.12.2-1.10.5.582.jar
+      version: gregtech-1.12.2-1.10.7.594.jar
   - tfcraft:
       version: TerraFirmaCraft-MC1.12.2-1.7.9.167.jar
 # Main mods: addons:
   - gregicality:
+  - tfctech-unofficial:
+  - tfc-metallum:
+# - advanced-tfc-tech:
   - terrafirmathings:
   - tfc-ambiental:
+  - better-with-addons:
+# IE + addons:
+  - immersive-engineering:
+  - immersive-petroleum:
+  - immersive-intelligence:
+  - mct-immersive-technology:
+  - engineers-doors:
+  - engineers-decor:
+      curseforgeid: 313866
 # MystMech + Embers + addons
   - mysticalmechanics:
   - mystical-gears:
@@ -31,23 +43,56 @@ mods:
 # Rustic + stuff
   - rustic:
   - heterorustichromia:
+# Logistics
+  - logistics-pipes:
+      version: logisticspipes-0.10.3.73.jar
+  - redstone-control:
+      version: RedstoneControl-1.12.2-0.3.1.3.jar
 # QoL stuff
+  - controlling:
   - foamfix-optimization-mod:
   - jeid:
   - jei:
+  - just-enough-petroleum:
   - the-one-probe:
   - top-addons:
   - patchouli:
 # Pack tools
   - crafttweaker:
+  - modtweaker:
+  - moretweaker:
+  - contenttweaker:
+      #ignoreddependencies: 
+        #- base
+  - base:
+      curseforgeid: 246996
+  - game-stages:
+  - multiblocktweaker:
+  - artisan-worktables:
+      version: artisanworktables-1.12.2-1.24.0.jar
+  - artisan-integrations:
+      version: artisanintegrations-1.12.2-1.2.2.jar
+  - artisan-automation:
+      version: artisanautomation-1.12.2-1.0.6.jar
+  - from-the-ground-up:
+      version: ftgu-1.12.2-b1.4.1.jar
 # Dynamic Trees
   - dynamictrees:
   - dynamictreestfc:
   - dynamic-trees-forestry:
 # Other
+  - botania:
+  - bewitchment:
+      version: bewitchment-1.12.2-0.0.22.46.jar
+  - pneumaticcraft-repressurized:
+  - wearable-backpacks:
+  - inspirations:
   - railcraft:
+  - steves-carts-reborn:
   - forestry:
-  - immersive-engineering:
   - sakura:
+  - baubles:
+  - pollution-of-the-realms:
+  - advanced-chimneys:
 files:
   - location: src/
