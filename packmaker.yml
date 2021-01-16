@@ -25,6 +25,8 @@ mods:
 # - advanced-tfc-tech:
   - terrafirmathings:
   - tfc-ambiental:
+  - tfc-aged-drinks:
+  - tfc-medicinal:
   - better-with-addons:
 # IE + addons:
   - immersive-engineering:
