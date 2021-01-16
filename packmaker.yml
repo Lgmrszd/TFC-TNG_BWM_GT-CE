@@ -96,5 +96,6 @@ mods:
   - baubles:
   - pollution-of-the-realms:
   - advanced-chimneys:
+  - primalcore:
 files:
   - location: src/
