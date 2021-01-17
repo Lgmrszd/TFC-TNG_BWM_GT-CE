@@ -1,8 +1,15 @@
 import crafttweaker.item.IIngredient;
 import mods.sakura.stoneMorter;
 
-// add recipes from the Sakura Stone Mortar to the BWM Millstone
+// remove duplicate recipes from the BWM millstone
 
+// add recipes to the BWM Millstone
+
+mods.betterwithmods.Mill.addRecipe([<tfc:food/barley_grain>],[<tfc:food/barley_flour>]);
+mods.betterwithmods.Mill.addRecipe([<tfc:food/maize_grain>],[<tfc:food/cornmeal_flour>]);
+mods.betterwithmods.Mill.addRecipe([<tfc:food/rye_grain>],[<tfc:food/rye_flour>]);
+mods.betterwithmods.Mill.addRecipe([<tfc:food/rice_grain>],[<tfc:food/rice_flour>]);
+mods.betterwithmods.Mill.addRecipe([<tfc:food/wheat_grain>],[<tfc:food/wheat_flour>]);
 mods.betterwithmods.Mill.addRecipe([<sakura:buckwheat>],[<sakura:materials:5>]);
 // recipe for Buchwheat Flour (not sure why the crop is called Buckwheat but the flour is called Buchwheat 🤔)
 mods.betterwithmods.Mill.addRecipe([<ore:bread>],[<sakura:materials:30> * 2]);
