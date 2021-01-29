@@ -28,7 +28,10 @@ mods.betterwithmods.Mill.addRecipe([<sakura:materials:39> * 2],[<sakura:material
 // recipe for Mocha
 // the default recipe requires 4 Green Tea with an output of 6 Mocha, so I made the recipe less demanding with a smaller output
 
-// the recipe for Ground Urushi hasn't been added yet because 1.) it isn't properly defined 2.) Urushi isn't used for anything Treated Planks and Treated Sticks, for which Creosote Oil can also be used
+val uflowr = [<minecraft:chorus_fruit>, <minecraft:red_flower> * 2, <minecraft:red_flower:[1, 2, 3, 4, 5, 6, 7, 8]> * 2, <minecraft:yellow_flower> * 2, <minecraft:double_plant>, <minecraft:double_plant[1, 2, 3, 4, 5]>
+val uplant = [<primal:leaves:1>, <minecraft:vine>, <minecraft:waterlily>, <minecraft:tallgrass:[1, 2]>, <minecraft:double_plant:[2, 3]>, <primal:rush_stems>, <primal:nether_root>, <primal:void_grass_root>, <primal:dry_grass_root>, <primal:valus_sepals>, <primal:valus_stalk_withered>]
+
+mods.betterwithmods.Mill.addRecipe([uflowr, uplant],[<primal:urushi_ground> * 3]);
 mods.betterwithmods.Mill.addRecipe([<ore:barkWood>],[<primal:tannin_ground>]);
 mods.betterwithmods.Mill.addRecipe([<primal:nether_vine>],[<primal:inferum_ground>]);
 mods.betterwithmods.Mill.addRecipe([<ore:fiberPlant> * 4],[<primal:plant_fiber_pulp>]);
