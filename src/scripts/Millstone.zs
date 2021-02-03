@@ -28,10 +28,11 @@ mods.betterwithmods.Mill.addRecipe([<sakura:materials:39> * 2],[<sakura:material
 // recipe for Mocha
 // the default recipe requires 4 Green Tea with an output of 6 Mocha, so I made the recipe less demanding with a smaller output
 
-val uflowr = [<minecraft:chorus_fruit>, <minecraft:red_flower> * 2, <minecraft:red_flower:[1, 2, 3, 4, 5, 6, 7, 8]> * 2, <minecraft:yellow_flower> * 2, <minecraft:double_plant>, <minecraft:double_plant[1, 2, 3, 4, 5]>
-val uplant = [<primal:leaves:1>, <minecraft:vine>, <minecraft:waterlily>, <minecraft:tallgrass:[1, 2]>, <minecraft:double_plant:[2, 3]>, <primal:rush_stems>, <primal:nether_root>, <primal:void_grass_root>, <primal:dry_grass_root>, <primal:valus_sepals>, <primal:valus_stalk_withered>]
+val sflowr = <minecraft:red_flower> * 2 | <minecraft:red_flower:1> * 2 | <minecraft:red_flower:2> * 2 | <minecraft:red_flower:3> * 2 | <minecraft:red_flower:4> * 2 | <minecraft:red_flower:5> * 2 | <minecraft:red_flower:6> * 2 | <minecraft:red_flower:7> * 2 | <minecraft:red_flower:8> * 2 | <minecraft:yellow_flower> * 2;
+val vflowr = <minecraft:chorus_fruit> | <minecraft:double_plant> | <minecraft:double_plant:1> | <minecraft:double_plant:4> | <minecraft:double_plant:5> | sflowr;
+val vplant = <minecraft:vine> | <minecraft:waterlily> | <minecraft:tallgrass:1> | <minecraft:tallgrass:2> | <minecraft:double_plant:2> | <minecraft:double_plant:3> | <primal:rush_stems> | <primal:nether_root> | <primal:void_grass_root> | <primal:dry_grass_root> | <primal:valus_sepals> | <primal:valus_stalk_withered> | <primal:leaves:1>;
 
-mods.betterwithmods.Mill.addRecipe([uflowr, uplant],[<primal:urushi_ground> * 3]);
+mods.betterwithmods.Mill.addRecipe([vflowr, vplant],[<primal:urushi_ground> * 3]);
 mods.betterwithmods.Mill.addRecipe([<ore:barkWood>],[<primal:tannin_ground>]);
 mods.betterwithmods.Mill.addRecipe([<primal:nether_vine>],[<primal:inferum_ground>]);
 mods.betterwithmods.Mill.addRecipe([<ore:fiberPlant> * 4],[<primal:plant_fiber_pulp>]);
