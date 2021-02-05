@@ -43,3 +43,7 @@ mods.betterwithmods.Mill.addRecipe([<ore:fiberCineris> * 4],[<primal:nether_fibe
 mods.primal.Quern.removeAll();
 
 // remove  the recipe for the itself
+// remove all the recipes from the Sakura Stone Mortar
+// stoneMorter.removeAll();
+
+// remove  the recipe for the Stone Mortar itself
